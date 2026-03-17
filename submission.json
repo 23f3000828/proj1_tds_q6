@@ -1,6 +1,7 @@
 {
-  "prompt": "A realistic tailor shop scene. A tailor is making a suit that fits one mannequin perfectly. Other mannequins wearing the same suit look uncomfortable, too tight or too loose. Natural lighting, realistic, no text, no labels, no diagrams, cinematic, 4K detail.",
+  "prompt": "A realistic tailor shop scene. A tailor is making a suit that fits one mannequin perfectly. Other mannequins wearing the same suit look uncomfortable, too tight or too loose.",
   "model": "DALL·E 3",
   "concept": "overfitting",
-  "metaphor": "A suit perfectly tailored to one mannequin fails to fit others, showing lack of generalization."
+  "metaphor": "A suit perfectly tailored to one mannequin fails to fit others, showing lack of generalization.",
+  "image": "https://raw.githubusercontent.com/23f3000828/proj1_tds_q6/main/image.png"
 }
